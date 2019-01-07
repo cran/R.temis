@@ -1,10 +1,10 @@
-fa0c07d1a8d6463e275e04b4a2c59ed5 *DESCRIPTION
+4d43d9b3a91bb17e871c41d0b3cb221c *DESCRIPTION
 d5a40d00fdb76d29f90c426bd59b4c4c *NAMESPACE
 e477508f104bc247bc0b167b1a34fcbf *R/CA.R
 342c6c1070a634cef4926306eff31e88 *R/clustering.R
-469dc94c41461c76ffe6a48f6508c6e3 *R/corpus.R
+5fbe2a557ef8d0633a313c64f0e0405c *R/corpus.R
 d3136634f236f513b20bc9003fae0629 *R/dictionary.R
-16a8a6f9b6b337ba3ba5ba0190584ca5 *R/graph.R
+61befeb3c5b3971322cc401ae4ad7aca *R/graph.R
 c12eec1d3df3b4caccfbfaa91ca480b3 *R/lexical.R
 e37375a92be5aadf7049eea8bfd68c7a *R/matrix.R
 ef078f3079c730c18171c3e5165f4d08 *R/terms.R
@@ -29,7 +29,7 @@ fa9278f6a019e2f4746b66eaa5951440 *man/specific_terms.Rd
 9b354104f20f331c68f79fc74e14283a *man/split_documents.Rd
 4735b05247a8ebe2bf9f1d16e5c95532 *man/subset_corpus.Rd
 158492fcbbbd360898be929acb5cb1a9 *man/term_freq.Rd
-3e5fda84f49737e09cf1be9e18febc7f *man/terms_graph.Rd
+b5a2431e1237e12efbe95e04396b9adb *man/terms_graph.Rd
 865a3068528b2faebca872dc060cf1ef *man/word_cloud.Rd
 71d01de24c989b909a4ac1ec497105ad *tests/testthat.R
 7ef15b03fe56c064ca17d39264a73efd *tests/testthat/test-RJournal.R
