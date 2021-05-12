@@ -4,8 +4,7 @@
 \alias{characteristic_docs}
 \title{characteristic_docs}
 \usage{
-characteristic_docs(corpus, dtm, variable, ndocs = 10, nterms = 25,
-  p = 0.1)
+characteristic_docs(corpus, dtm, variable, ndocs = 10, nterms = 25, p = 0.1)
 }
 \arguments{
 \item{corpus}{A \code{Corpus} object.}
